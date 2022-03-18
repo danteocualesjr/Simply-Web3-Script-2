@@ -4,4 +4,4 @@ async function main() {
     const blockNumber = await web3.eth.getBlockNumber();
     console.log("The latest block number is " + blockNumber);
    }
-   main();             
+main();             
